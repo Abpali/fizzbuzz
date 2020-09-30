@@ -1,6 +1,6 @@
 # FizzBuzz
 
-[![Build Status](https://travis-ci.org/Abpali/fizzbuzz.svg?branch=master)](https://travis-ci.org/Abpali/fizzbuzz)
+[![Build Status](https://travis-ci.com/Abpali/fizzbuzz.svg?branch=master)](https://travis-ci.com/Abpali/fizzbuzz)
 
 
 This is an introduction to TDD (Test-Driven Development) using the simple FizzBuzz program. This repository will provide tests and stub methods.
